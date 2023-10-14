@@ -1,6 +1,6 @@
 module github.com/emirot/test-go-git
 
-go 1.21.2
+go 1.20
 
 require github.com/go-git/go-git/v5 v5.9.0
 
